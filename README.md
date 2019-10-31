@@ -13,3 +13,4 @@ It is based on my personal experience and ideas as an Android developer. It draw
 ## TBD:
 - The project still lacks tests. The idea is to steer the architecture in a TDD-friendly direction.
 - Dependency injection.
+- Introduce Jetpack ViewModel
